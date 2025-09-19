@@ -2,7 +2,7 @@
 
 Analyzes YouTube comments from a BTS video to classify sentiment as Positive, Neutral, or Negative using Python, TextBlob, and Logistic Regression.
 
-## Overview 
+## Overview
 - Dataset: `bts_2021_1.csv`
 - Method: TextBlob for polarity/subjectivity, CountVectorizer for feature extraction, Logistic Regression classifier
 - Evaluation: ~85-88% accuracy on test data
